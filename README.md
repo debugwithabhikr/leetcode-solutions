@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [1025-divisor-game](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -57,4 +58,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0796-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
