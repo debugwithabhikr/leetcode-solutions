@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [1025-divisor-game](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Union-Find
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2390-removing-stars-from-a-string](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
