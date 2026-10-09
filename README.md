@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -123,8 +125,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/debugwithabhikr/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
